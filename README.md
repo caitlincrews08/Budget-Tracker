@@ -34,6 +34,9 @@ At start up, the user is presented with their budget total, two input fields wit
 
 The app was designed so that the website still functions whether the user is online or offline. When offline, the user's inputs are stored in indexedDB until they can be synched when internet connection is restored.
 
+See example demo here:
+[![demo](./assets/budget_screenshot.png)](https://drive.google.com/file/d/1JV7uVS6i9GGzuTP3e39KbG6VWaYXhuY2/view?usp=sharing)
+
 ## License
 This project is licensed under the terms of the MIT license.
 
