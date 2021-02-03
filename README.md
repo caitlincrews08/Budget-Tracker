@@ -32,7 +32,7 @@ Start by navigating to the website using the link above.
 
 At start up, the user is presented with their budget total, two input fields with the option to either add or subtract funds and a graph displaying their transactions. When the user enters a transaction, it displays in a table below.
 
-The app was designed so that the website still functions whether the user is online or offline. When offline, the user's inputs are stored in indexedDB until they can be synched when internet connection is restored.
+The app was designed so that the website still functions whether the user is online or offline. When offline, the user's inputs are stored in indexedDB until they can be synced when internet connection is restored.
 
 See example demo here:
 [![demo](./assets/budget_screenshot.png)](https://drive.google.com/file/d/1JV7uVS6i9GGzuTP3e39KbG6VWaYXhuY2/view?usp=sharing)
